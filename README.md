@@ -34,7 +34,7 @@ The url can be ommitted, it will default to https://wallpapercave.com/
 For the Python dependencies you can copy and then run:
 
     cd kerei-scraper
-    pip3 install requirements.txt
+    pip3 install -r requirements.txt
     
 If you have python 3 installed on PATH, simple run:
 
